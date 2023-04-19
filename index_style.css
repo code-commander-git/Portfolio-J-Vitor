@@ -67,11 +67,12 @@ body{
         margin-top: 50px;
     }
     .name{
-        font-size: 50px;
+        fo
+nt-size: 50px;
     }
     .about-text{
         font-size: 30px;
-        margin-left: 60px;
-        margin-right: 60px;
+        margin-left: 100px;
+        margin-right: 100px;
     }
 }
