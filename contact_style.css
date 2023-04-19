@@ -96,6 +96,9 @@ a{
     text-decoration: none;
 }
 @media screen and (max-width: 1200px) {
+    *{
+       font-weight: 200;
+    }
     .s-button{
         font-size: 20px;
     }
