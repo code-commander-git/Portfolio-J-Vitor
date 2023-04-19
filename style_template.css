@@ -43,3 +43,8 @@ body{
 .s-button:hover{
     color: rgb(71, 109, 71);
 }
+@media screen and (max-width: 1200px) {
+    .s-button{
+        font-size: 20px;
+    }
+}
