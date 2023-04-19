@@ -64,7 +64,7 @@ body{
 
 @media screen and (max-width: 1200px) {
     *{
-       font-weight: 200;
+       font-weight: 400;
     }
     .site-body{
         margin-top: 50px;
