@@ -45,6 +45,7 @@ body{
 }
 
 .name{
+    font-weight: 100;
     font-size: 100px;
     color: rgb(105, 170, 170);
 }
@@ -56,7 +57,7 @@ body{
 }
 
 .site-body{
-    margin-top: 150px;
+    margin-top: 250px;
     display: flex;
     flex-direction: column;
     text-align: center;
