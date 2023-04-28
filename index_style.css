@@ -91,7 +91,9 @@ body{
         margin-top: 50px;
     }
     .name{
-        font-size: 65px;
+        margin-left: 10px;
+        margin-right: 10px;
+        font-size: 85px;
     }
     .about-text{
         font-size: 30px;
