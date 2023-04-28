@@ -91,12 +91,12 @@ body{
         margin-top: 50px;
     }
     .name{
-        font-size: 50px;
+        font-size: 60px;
     }
     .about-text{
         font-size: 30px;
-        margin-left: 100px;
-        margin-right: 100px;
+        margin-left: 50px;
+        margin-right: 50px;
     }
     .s-button{
         font-size: 20px;
