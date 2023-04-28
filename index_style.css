@@ -82,6 +82,11 @@ body{
     *{
        font-weight: 400;
     }
+    .c-button{
+        height: 80px;
+        font-size: 30px;
+        width: 400px;
+    }
     .site-body{
         margin-top: 50px;
     }
