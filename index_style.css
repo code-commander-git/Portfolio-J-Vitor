@@ -51,16 +51,31 @@ body{
 }
 
 .about-text{
-    margin-top: 50px;
+    margin-top: 10px;
     font-size: 30px;
     color: rgb(90, 93, 97);
 }
 
 .site-body{
-    margin-top: 250px;
+    margin-top: 10px;
     display: flex;
     flex-direction: column;
     text-align: center;
+}
+
+.c-button{
+    border-radius: 20px;
+    border: 2px rgb(72, 72, 72) solid;
+    height: 50px;
+    font-size: 20px;
+    width: 250px;
+    background: none;
+    margin: 0 auto;
+}
+
+.c-button:hover{
+    border: 2px rgb(65, 188, 78) solid;
+    transition: all 0.2s;
 }
 
 @media screen and (max-width: 1200px) {
